@@ -12,7 +12,7 @@
 [credential]
 	helper = store
 [remote "origin"]
-	url = https://247646522:xujuan0808@github.com:80/247646522/mytest02.git
+	url = https://247646522:xujuan0808@github.com:443/247646522/mytest02.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
